@@ -1,5 +1,5 @@
 # Ambiance theme fix
-Adds missing styling to the Nemo file manager in Ubuntu 12.04/12.10/13.04.
+Adds missing styling to the Nemo file manager for default Ubuntu theme 'Ambiance' from 12.04 to 16.04
 
 ## Installation
 1. Run `./install`
